@@ -1,0 +1,8 @@
+package ObjectOriented;
+
+public abstract class Telphone {
+
+	public abstract void call();
+	public abstract void message();
+	
+}
